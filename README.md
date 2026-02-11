@@ -1,4 +1,4 @@
-![banner](https://github.com/Sadi5/Sadi5/blob/main/git%20banner.png)
+![banner](https://github.com/Sadi5/Sadi5/blob/main/bg_cover.png)
 
 <h1 align="center">Hi 👋, I'm Sadia Liaqat</h1>
 <h3 align="center">Android Developer | Java & Kotlin Enthusiast | Passionate Problem Solver</h3>
