@@ -51,11 +51,7 @@ I aim to create **impactful digital solutions** that solve real-world problems a
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=sadia5&show_icons=true&theme=tokyonight&count_private=true" />
 <br/>
-<!-- Profile Views starting from 5k -->
 <img src="https://komarev.com/ghpvc/?username=sadia5&color=blueviolet&label=Profile+Views&style=flat-square" alt="Profile Views"/>
-<br/>
-🌟 **Profile Views:** 5k+ (increasing with every visit)
-</p>
 
 ---
 
@@ -84,20 +80,3 @@ I aim to create **impactful digital solutions** that solve real-world problems a
 ### 🌟 Quote
 
 *"Turning ideas into powerful mobile applications through clean and efficient code."*  
-
----
-
-### 🔖 Pinned Repo Suggestions & Topics
-
-To make your pinned repositories **trending and discoverable**, use these keywords/topics:
-
-**Languages & Frameworks:** Dart, Flutter, Java, Kotlin, Firebase, Jetpack Compose  
-**App Types:** Chat App, Wallpaper App, Ringtone App, Productivity App  
-**Concepts:** State Management, Animations, UI/UX, Clean Architecture, OCR, ML Kit, Realtime  
-**Misc / Trending:** Paperless Solutions, Open Source, Ad-Free Apps, Digital Transformation  
-
-> 💡 **Pro Tip:** Include **screenshots, GIFs, and badges** in each repo README for maximum visibility.
-
----
-
-📌 **Keep contributing, maintain activity, and your profile will continue to trend!**
