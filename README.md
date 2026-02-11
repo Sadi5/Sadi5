@@ -1,32 +1,35 @@
 ![banner](https://github.com/Sadi5/Sadi5/blob/main/bg_cover.png)
 
 <h1 align="center">Hi 👋, I'm Sadia Liaqat</h1>
-<h3 align="center">Android & Flutter Developer | Java • Kotlin • Dart | Building Scalable Mobile Applications</h3>
+<h3 align="center">Android & Flutter Developer | Java • Kotlin • Dart | Mobile App Specialist</h3>
 
 ---
 
-### 👩‍💻 Professional Summary
+### 👩‍💻 Professional Profile
 
-I am a passionate **Mobile Application Developer** specializing in **Android (Java & Kotlin)** and **Flutter (Dart)**.  
-I focus on building scalable, user-friendly, and performance-optimized applications following modern development standards.
+I am a dedicated **Mobile Application Developer** with hands-on experience in building scalable and user-centric applications using modern technologies.
 
-- 🔭 Currently developing **multi-module Android & Flutter projects**
-- 🌱 Continuously learning **Modern Android Architecture & Flutter Best Practices**
-- 👯 Open for collaboration on **Mobile App Development Projects**
-- 💬 Strong in **Java, Kotlin, Dart, C++**
-- ⚡ Committed to clean code & continuous improvement
+🔹 Specialized in **Android Development (Java & Kotlin)**  
+🔹 Experienced in **Flutter Development (Dart)**  
+🔹 Strong understanding of **Clean Architecture & Firebase Integration**  
+🔹 Focused on performance, maintainability, and clean code practices  
+
+I aim to build impactful digital products that solve real-world problems.
 
 ---
 
-### 📬 Contact & Social
+### 📬 Connect With Me
 
 <p align="left">
+
 <a href="mailto:devsadialiaqat@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="email"/>
 </a>
+
 <a href="https://www.facebook.com/sadia.liaqat.437550" target="_blank">
-<img src="https://skillicons.dev/icons?i=facebook" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook"/>
 </a>
+
 </p>
 
 📧 **Email:** devsadialiaqat@gmail.com  
@@ -49,4 +52,12 @@ I focus on building scalable, user-friendly, and performance-optimized applicati
 
 ---
 
-⭐ *"Building impactful mobile experiences through clean and efficient code."*
+### 🏷️ Tags
+
+#AndroidDeveloper #FlutterDeveloper #MobileAppDeveloper  
+#Java #Kotlin #Dart #Firebase  
+#CleanArchitecture #AppDevelopment #OpenToWork  
+
+---
+
+⭐ *"Turning ideas into powerful mobile applications through clean and efficient code."*
