@@ -5,6 +5,14 @@
 
 ---
 
+### 📬 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sadia5&color=blueviolet&label=Profile+Views&style=flat-square" alt="Profile Views"/>
+</p>
+
+---
+
 ### 👩‍💻 About Me
 
 I am a professional **Mobile Application Developer** focused on building **high-performance, scalable, and user-friendly mobile apps**.  
@@ -50,8 +58,7 @@ I aim to create **impactful digital solutions** that solve real-world problems a
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadia5&theme=tokyonight" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api?username=sadia5&show_icons=true&theme=tokyonight&count_private=true" />
-<br/>
-<img src="https://komarev.com/ghpvc/?username=sadia5&color=blueviolet&label=Profile+Views&style=flat-square" alt="Profile Views"/>
+</p>
 
 ---
 
