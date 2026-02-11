@@ -1,11 +1,11 @@
-![banner](https://github.com/Sadi5/Sadi5/blob/main/bg_cover.png)
+![banner](https://github.com/Sadi5/Sadi5/blob/main/git_bg.png)
 
 <h1 align="center">Hi 👋, I'm Sadia Liaqat</h1>
 <h3 align="center">Android & Flutter Developer | Java • Kotlin • Dart | Mobile App Specialist</h3>
 
 ---
 
-### 👩‍💻 Professional Profile
+### 👩‍💻 About me
 
 I am a dedicated **Mobile Application Developer** with hands-on experience in building scalable and user-centric applications using modern technologies.
 
