@@ -52,11 +52,29 @@ I aim to build impactful digital products that solve real-world problems.
 
 ---
 
-### 🏷️ Tags
+---
 
-#AndroidDeveloper #FlutterDeveloper #MobileAppDeveloper  
-#Java #Kotlin #Dart #Firebase  
-#CleanArchitecture #AppDevelopment #OpenToWork  
+### 🏷️ Professional Tags
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Android-Developer-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Mobile-App%20Development-Expert-blue?style=for-the-badge"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Clean-Architecture-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open-To%20Collaborate-success?style=for-the-badge"/>
+
+</p>
 
 ---
 
