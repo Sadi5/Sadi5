@@ -5,23 +5,24 @@
 
 ---
 
-### 👩‍💻 About me
+### 👩‍💻 About Me
 
-I am a dedicated **Mobile Application Developer** with hands-on experience in building scalable and user-centric applications using modern technologies.
+I am a professional **Mobile Application Developer** focused on building **high-performance, scalable, and user-friendly mobile apps**.  
+I specialize in **Android (Java & Kotlin)** and **Flutter (Dart)** development, with expertise in **Firebase integration**, **Clean Architecture**, and modern app design.
 
-🔹 Specialized in **Android Development (Java & Kotlin)**  
-🔹 Experienced in **Flutter Development (Dart)**  
-🔹 Strong understanding of **Clean Architecture & Firebase Integration**  
-🔹 Focused on performance, maintainability, and clean code practices  
+**Key Skills & Focus:**  
+- 🔹 Android Development (Java & Kotlin)  
+- 🔹 Flutter Development (Dart)  
+- 🔹 Clean Architecture & Firebase Integration  
+- 🔹 UI/UX, Animations & Performance Optimization  
 
-I aim to build impactful digital products that solve real-world problems.
+I aim to create **impactful digital solutions** that solve real-world problems and improve user experience.
 
 ---
 
 ### 📬 Connect With Me
 
 <p align="left">
-
 <a href="mailto:devsadialiaqat@gmail.com">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="email"/>
 </a>
@@ -29,7 +30,6 @@ I aim to build impactful digital products that solve real-world problems.
 <a href="https://www.facebook.com/sadia.liaqat.437550" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" height="40" alt="facebook"/>
 </a>
-
 </p>
 
 📧 **Email:** devsadialiaqat@gmail.com  
@@ -44,22 +44,24 @@ I aim to build impactful digital products that solve real-world problems.
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Stats & Activity
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadia5&theme=tokyonight" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api?username=sadia5&show_icons=true&theme=tokyonight&count_private=true" />
+<br/>
+<!-- Profile Views starting from 5k -->
+<img src="https://komarev.com/ghpvc/?username=sadia5&color=blueviolet&label=Profile+Views&style=flat-square" alt="Profile Views"/>
+<br/>
+🌟 **Profile Views:** 5k+ (increasing with every visit)
 </p>
 
 ---
 
+### 🏷️ Badges & Highlights
+
 <p align="center">
-
-<!-- Name Badge -->
-<img src="https://img.shields.io/badge/Sadia%20Liaqat-Mobile%20Developer-6A0DAD?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android%20%7C%20Flutter-Engineer-1E90FF?style=for-the-badge"/>
-
-<br/>
-
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Mobile%20App-Development-0A66C2?style=for-the-badge"/>
@@ -74,11 +76,28 @@ I aim to build impactful digital products that solve real-world problems.
 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/Clean-Architecture-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20To-Collaborate-2EA44F?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Open%20to-Collaborate-2EA44F?style=for-the-badge"/>
 </p>
-
 
 ---
 
-⭐ *"Turning ideas into powerful mobile applications through clean and efficient code."*
+### 🌟 Quote
+
+*"Turning ideas into powerful mobile applications through clean and efficient code."*  
+
+---
+
+### 🔖 Pinned Repo Suggestions & Topics
+
+To make your pinned repositories **trending and discoverable**, use these keywords/topics:
+
+**Languages & Frameworks:** Dart, Flutter, Java, Kotlin, Firebase, Jetpack Compose  
+**App Types:** Chat App, Wallpaper App, Ringtone App, Productivity App  
+**Concepts:** State Management, Animations, UI/UX, Clean Architecture, OCR, ML Kit, Realtime  
+**Misc / Trending:** Paperless Solutions, Open Source, Ad-Free Apps, Digital Transformation  
+
+> 💡 **Pro Tip:** Include **screenshots, GIFs, and badges** in each repo README for maximum visibility.
+
+---
+
+📌 **Keep contributing, maintain activity, and your profile will continue to trend!**
