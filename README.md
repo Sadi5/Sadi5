@@ -1,4 +1,4 @@
-![banner](https://github.com/Sadi5/Sadi5/blob/main/git_bg.png)
+![banner](https://github.com/Sadi5/Sadi5/raw/main/git_bg.png)
 
 <h1 align="center">Hi 👋, I'm Sadia Liaqat</h1>
 <h3 align="center">Android & Flutter Developer | Java • Kotlin • Dart | Mobile App Specialist</h3>
@@ -47,11 +47,17 @@ I aim to create **impactful digital solutions** that solve real-world problems a
 ### 📊 GitHub Stats & Activity
 
 <p align="center">
+<!-- Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadia5&theme=tokyonight" />
 <br/>
+<!-- GitHub stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=sadia5&show_icons=true&theme=tokyonight&count_private=true" />
 <br/>
-<img src="https://komarev.com/ghpvc/?username=sadia5&color=blueviolet&label=Profile+Views&style=flat-square" alt="Profile Views"/>
+<!-- Profile views starting from 5k+ -->
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sadia5.sadia5&left_text=Profile+Views&label_color=blueviolet&style=flat-square" alt="Profile Views"/>
+<br/>
+🌟 **Profile Views:** 5k+ (growing with every visit)
+</p>
 
 ---
 
