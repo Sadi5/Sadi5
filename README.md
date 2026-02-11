@@ -46,11 +46,6 @@ https://www.linkedin.com/in/sadia-liaqat-40ab35249/
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sadia5&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sadia5&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadia5&theme=tokyonight" />
 </p>
 
